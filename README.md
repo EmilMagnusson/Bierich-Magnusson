@@ -1,3 +1,3 @@
 # Bierich-Magnusson
 Carl Bierich &amp; Emil Magnusson
-Studenter från masterprogrammet MPEPO-1
+\n Studenter från masterprogrammet MPEPO-1
